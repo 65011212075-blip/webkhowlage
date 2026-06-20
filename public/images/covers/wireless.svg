@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#0f172a"/>
+  <circle cx="400" cy="240" r="180" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.1"/>
+  <circle cx="400" cy="240" r="130" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.2"/>
+  <circle cx="400" cy="240" r="80" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.3"/>
+  <circle cx="400" cy="240" r="30" stroke="#06b6d4" stroke-width="1.5" stroke-opacity="0.5"/>
+  <rect x="370" y="200" width="60" height="80" rx="4" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+  <line x1="385" y1="200" x2="385" y2="170" stroke="#64748b" stroke-width="2"/>
+  <line x1="415" y1="200" x2="415" y2="170" stroke="#64748b" stroke-width="2"/>
+  <circle cx="385" cy="165" r="4" fill="#22d3ee"/>
+  <circle cx="415" cy="165" r="4" fill="#22d3ee"/>
+  <circle cx="250" cy="300" r="8" fill="#22d3ee" opacity="0.7"/>
+  <circle cx="550" cy="180" r="8" fill="#22d3ee" opacity="0.7"/>
+  <circle cx="480" cy="350" r="8" fill="#22d3ee" opacity="0.5"/>
+  <text x="400" y="420" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="13">Wireless &amp; Wi-Fi</text>
+</svg>

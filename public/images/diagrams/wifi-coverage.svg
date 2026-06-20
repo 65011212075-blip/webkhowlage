@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 300" fill="none">
+  <rect width="700" height="300" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <rect x="50" y="40" width="600" height="200" rx="4" fill="#1e293b" fill-opacity="0.5" stroke="#334155" stroke-width="1"/>
+  <ellipse cx="200" cy="140" rx="100" ry="70" fill="#06b6d4" fill-opacity="0.08" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.4"/>
+  <ellipse cx="400" cy="140" rx="100" ry="70" fill="#06b6d4" fill-opacity="0.08" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.4"/>
+  <ellipse cx="550" cy="140" rx="80" ry="60" fill="#06b6d4" fill-opacity="0.08" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="185" y="125" width="30" height="30" rx="2" fill="#0f172a" stroke="#64748b" stroke-width="1"/>
+  <rect x="385" y="125" width="30" height="30" rx="2" fill="#0f172a" stroke="#64748b" stroke-width="1"/>
+  <rect x="535" y="125" width="30" height="30" rx="2" fill="#0f172a" stroke="#64748b" stroke-width="1"/>
+  <circle cx="120" cy="180" r="5" fill="#22d3ee"/>
+  <circle cx="300" cy="100" r="5" fill="#22d3ee"/>
+  <circle cx="480" cy="170" r="5" fill="#22d3ee"/>
+  <text x="350" y="280" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">Wi-Fi Coverage Heatmap (Site Survey)</text>
+</svg>

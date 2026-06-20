@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#0f172a"/>
+  <rect x="180" y="80" width="440" height="290" rx="8" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+  <rect x="180" y="80" width="440" height="32" rx="8" fill="#0f172a"/>
+  <circle cx="200" cy="96" r="5" fill="#ef4444" opacity="0.8"/>
+  <circle cx="218" cy="96" r="5" fill="#eab308" opacity="0.8"/>
+  <circle cx="236" cy="96" r="5" fill="#22c55e" opacity="0.8"/>
+  <text x="210" y="145" fill="#22d3ee" font-family="monospace" font-size="13">$ ping 10.0.0.1</text>
+  <text x="210" y="175" fill="#94a3b8" font-family="monospace" font-size="13">Reply from 10.0.0.1: bytes=32 time=1ms</text>
+  <text x="210" y="205" fill="#94a3b8" font-family="monospace" font-size="13">Reply from 10.0.0.1: bytes=32 time=1ms</text>
+  <text x="210" y="245" fill="#22d3ee" font-family="monospace" font-size="13">$ traceroute 8.8.8.8</text>
+  <text x="210" y="275" fill="#94a3b8" font-family="monospace" font-size="13">1  gateway (192.168.1.1)  1.2ms</text>
+  <text x="210" y="305" fill="#94a3b8" font-family="monospace" font-size="13">2  isp-router (10.0.0.1)  5.8ms</text>
+  <text x="210" y="335" fill="#22c55e" font-family="monospace" font-size="13">3  8.8.8.8  12.1ms  </text>
+  <text x="400" y="420" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="13">Troubleshooting</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 320" fill="none">
+  <rect width="700" height="320" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <rect x="250" y="30" width="200" height="100" rx="8" fill="#06b6d4" fill-opacity="0.1" stroke="#06b6d4" stroke-width="1.5"/>
+  <text x="350" y="70" text-anchor="middle" fill="#22d3ee" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Area 0</text>
+  <text x="350" y="95" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">Backbone</text>
+  <rect x="60" y="180" width="160" height="100" rx="8" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+  <text x="140" y="225" text-anchor="middle" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="13">Area 1</text>
+  <text x="140" y="248" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="10">Branch Sites</text>
+  <rect x="480" y="180" width="160" height="100" rx="8" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+  <text x="560" y="225" text-anchor="middle" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="13">Area 2</text>
+  <text x="560" y="248" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="10">Remote Offices</text>
+  <line x1="220" y1="210" x2="280" y2="130" stroke="#06b6d4" stroke-width="2"/>
+  <line x1="480" y1="210" x2="420" y2="130" stroke="#06b6d4" stroke-width="2"/>
+  <text x="240" y="165" fill="#64748b" font-family="system-ui,sans-serif" font-size="10">ABR</text>
+  <text x="440" y="165" fill="#64748b" font-family="system-ui,sans-serif" font-size="10">ABR</text>
+  <text x="350" y="305" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="11">OSPF Multi-Area Topology</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#0f172a"/>
+  <rect x="280" y="100" width="240" height="250" rx="4" fill="#1e293b" stroke="#64748b" stroke-width="1.5"/>
+  <rect x="300" y="120" width="200" height="30" rx="2" fill="#0f172a" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="300" y="160" width="200" height="30" rx="2" fill="#0f172a" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="300" y="200" width="200" height="30" rx="2" fill="#0f172a" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="300" y="240" width="200" height="30" rx="2" fill="#0f172a" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.4"/>
+  <rect x="300" y="280" width="200" height="30" rx="2" fill="#0f172a" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.4"/>
+  <circle cx="315" cy="135" r="4" fill="#22c55e"/>
+  <circle cx="315" cy="175" r="4" fill="#22c55e"/>
+  <circle cx="315" cy="215" r="4" fill="#22d3ee"/>
+  <circle cx="315" cy="255" r="4" fill="#22c55e"/>
+  <circle cx="315" cy="295" r="4" fill="#eab308"/>
+  <line x1="160" y1="225" x2="280" y2="225" stroke="#06b6d4" stroke-width="2" opacity="0.5"/>
+  <line x1="520" y1="225" x2="640" y2="225" stroke="#06b6d4" stroke-width="2" opacity="0.5"/>
+  <rect x="100" y="200" width="60" height="50" rx="4" fill="#1e293b" stroke="#64748b" stroke-width="1"/>
+  <rect x="640" y="200" width="60" height="50" rx="4" fill="#1e293b" stroke="#64748b" stroke-width="1"/>
+  <text x="400" y="420" text-anchor="middle" fill="#64748b" font-family="system-ui,sans-serif" font-size="13">Data Center</text>
+</svg>
